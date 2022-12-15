@@ -1,7 +1,7 @@
 {
   "homepage": "https://Cubisystem.github.io/Cubisystem",
-  "name": "cubi-system",
-  "version": "0.1.0",
+  "name": "cubisystem",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": "16.16.0"

@@ -35,7 +35,7 @@ const App = () => {
         <a  style={{height: '100%'}} href="#inicio">
           <img
             style={{height: '100%'}}
-            src={ window.location.origin + "/logo-menu.jpeg" }
+            src={ window.location.origin + "/Cubisystem/logo-menu.jpeg" }
             alt="CubiSystem C.A"
           />
         </a>
@@ -78,7 +78,7 @@ const App = () => {
                 <Image
                   height={'120px'}
                   width={'110px'}
-                  src={ window.location.origin + "/logo.png" }
+                  src={ window.location.origin + "/Cubisystem/logo.png" }
                   alt="Logo"
                 />
                 </div>
@@ -132,7 +132,7 @@ const App = () => {
               hoverable
               className='card-serv '
               cover={<img className='img-card-serv' alt="Instalacion de camaras de Seguridad" 
-              src= {window.location.origin + "/ins-camaras.webp"} />}
+              src= {window.location.origin + "/Cubisystem/ins-camaras.webp"} />}
             >
               <h4 className='text-p'><b>Instalación de cámaras de seguridad</b></h4>
               <p className='text-p'>Acceso desde cualquier lugar a través de su computador o dispositivo móvil</p>
@@ -142,7 +142,7 @@ const App = () => {
               hoverable
               className='card-serv'
               cover={<img className='img-card-serv' alt="Instalacion de software" 
-              src={window.location.origin + "/ins-soft.webp"} />}
+              src={window.location.origin + "/Cubisystem/ins-soft.webp"} />}
             >
               <h4 className='text-p'><b>Instalación de software administrativo de ventas Pskloud</b></h4>
               <p className='text-p'>Vendemos las licencias de 
