@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Cubisystem/static/css/main.a985272e.chunk.css",
+    "main.js": "/Cubisystem/static/js/main.2ed4c71d.chunk.js",
+    "main.js.map": "/Cubisystem/static/js/main.2ed4c71d.chunk.js.map",
+    "runtime-main.js": "/Cubisystem/static/js/runtime-main.fe323386.js",
+    "runtime-main.js.map": "/Cubisystem/static/js/runtime-main.fe323386.js.map",
+    "static/css/2.588af6b7.chunk.css": "/Cubisystem/static/css/2.588af6b7.chunk.css",
+    "static/js/2.a06f4c35.chunk.js": "/Cubisystem/static/js/2.a06f4c35.chunk.js",
+    "static/js/2.a06f4c35.chunk.js.map": "/Cubisystem/static/js/2.a06f4c35.chunk.js.map",
+    "static/js/3.c73ba565.chunk.js": "/Cubisystem/static/js/3.c73ba565.chunk.js",
+    "static/js/3.c73ba565.chunk.js.map": "/Cubisystem/static/js/3.c73ba565.chunk.js.map",
+    "index.html": "/Cubisystem/index.html",
+    "static/css/2.588af6b7.chunk.css.map": "/Cubisystem/static/css/2.588af6b7.chunk.css.map",
+    "static/css/main.a985272e.chunk.css.map": "/Cubisystem/static/css/main.a985272e.chunk.css.map",
+    "static/js/2.a06f4c35.chunk.js.LICENSE.txt": "/Cubisystem/static/js/2.a06f4c35.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Cubisystem/static/media/fondo.d1551cc5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe323386.js",
+    "static/css/2.588af6b7.chunk.css",
+    "static/js/2.a06f4c35.chunk.js",
+    "static/css/main.a985272e.chunk.css",
+    "static/js/main.2ed4c71d.chunk.js"
+  ]
+}
